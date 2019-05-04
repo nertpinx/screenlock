@@ -1,0 +1,8 @@
+[package]
+name = "screenlock"
+version = "0.1.0"
+authors = ["Martin Kletzander <nert.pinx@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+dbus = "0.6.4"
